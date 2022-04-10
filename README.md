@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/aimdexter/stats-preview-card-component-main]
-- Live Site URL: [https://aimdexter.github.io/stats-preview-card-component-main/]
+- Solution URL: [Source](https://github.com/youssra-ghninou/order-summary-component-main)
+- Live Site URL: [Demo](https://youssra-ghninou.github.io/order-summary-component-main/)
 
 ## My process
 
@@ -52,9 +52,9 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@aimdexter](https://www.frontendmentor.io/profile/aimdexter)
+- Frontend Mentor - [@ussra](https://www.frontendmentor.io/profile/youssra-ghninou)
 
 ## Acknowledgments
 
-Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-Coded by <a href="https://github.com/aimdexter/">AimDexter</a>.
+Challenge by <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj">Frontend Mentor</a>.
+Coded by <a href="https://github.com/youssra-ghninou">youssra-ghninou</a>.
